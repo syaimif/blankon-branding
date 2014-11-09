@@ -1,0 +1,15 @@
+#! /bin/sh
+set -e
+
+case "$1" in
+  configure)
+  if [ -f /usr/share/cups/data/default-testpage.pdf ]; then
+    dpkg-divert --add --local --divert /usr/share/cups/data/default-testpage.pdf.divert --rename /usr/share/cups/data/default-testpage.pdf
+    cp -a /usr/share/cups/data/default-testpage-blankon.pdf /usr/share/cups/data/default-testpage.pdf
+  fi
+esac
+
+exit 0
+
+
+

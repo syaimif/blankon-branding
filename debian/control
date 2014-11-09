@@ -1,0 +1,53 @@
+Source: blankon-branding
+Priority: optional
+Section: gnome
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Standards-Version: 3.7.0
+Build-Depends: debhelper, cdbs, coreutils
+
+Package: blankon-branding-gimp
+Architecture: all
+Depends: ${shlibs:Depends}, gimp
+Description: Rebranding paket GIMP Debian ke paket GIMP BlankOn
+
+Package: blankon-branding-libreoffice
+Architecture: all
+Depends: ${shlibs:Depends}, libreoffice-core
+Description: Rebranding paket LibreOffice Debian ke paket LibreOffice BlankOn
+
+Package: blankon-branding-inkscape
+Architecture: all
+Depends: ${shlibs:Depends}, inkscape
+Description: Rebranding paket Inkscape Debian ke paket Inkscape BlankOn
+
+Package: blankon-branding-system-config-printer
+Architecture: all
+Depends: ${shlibs:Depends}, system-config-printer, cups
+Description: Rebranding paket system-config-printer-gnome Debian ke system-config-printer-gnome-blankon
+
+Package: blankon-branding-gnucash
+Architecture: all
+Depends: ${shlibs:Depends}, gnucash
+Description: Rebranding paket GNUCash Debian ke paket GNUCash BlankOn
+
+Package: blankon-branding-pidgin
+Architecture: all
+Depends: ${shlibs:Depends}, pidgin
+Description: Rebranding paket pidgin Debian ke paket pidgin BlankOn
+
+Package: blankon-branding-network-manager-gnome
+Architecture: all
+Depends: ${shlibs:Depends}, network-manager-gnome
+Description: Add LXDE into nm-applet.desktop
+
+Package: blankon-branding-gnome-system-monitor
+Architecture: all
+Depends: ${shlibs:Depends}, gnome-system-monitor
+Description: Rebranding file gnome-system-monitor integrated logo BlankOn
+ Mengganti link logo gnome system monitor
+
+Package: blankon-branding-gnome-bluetooth
+Architecture: all
+Depends: ${shlibs:Depends}, gnome-bluetooth
+Description: Rebranding file gnome-bluetooth integrated BlankOn
+ Mengganti link gnome-bluetooth

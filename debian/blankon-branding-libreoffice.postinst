@@ -1,0 +1,41 @@
+#! /bin/sh
+set -e
+
+case "$1" in
+  configure)
+  if [ -f /usr/lib/libreoffice/program/shell/backing_left.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/shell/backing_left.png.divert --rename /usr/lib/libreoffice/program/shell/backing_left.png
+    cp -a /usr/lib/libreoffice/program/shell/backing_left-blankon.png /usr/lib/libreoffice/program/shell/backing_left.png
+  fi
+  if [ -f /usr/lib/libreoffice/program/shell/backing_right.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/shell/backing_right.png.divert --rename /usr/lib/libreoffice/program/shell/backing_right.png
+    cp -a /usr/lib/libreoffice/program/shell/backing_right-blankon.png /usr/lib/libreoffice/program/shell/backing_right.png
+  fi
+  if [ -f /usr/lib/libreoffice/program/shell/backing_rtl_left.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/shell/backing_rtl_left.png.divert --rename /usr/lib/libreoffice/program/shell/backing_rtl_left.png
+    cp -a /usr/lib/libreoffice/program/shell/backing_rtl_left-blankon.png /usr/lib/libreoffice/program/shell/backing_rtl_left.png
+  fi
+  if [ -f /usr/lib/libreoffice/program/shell/backing_rtl_right.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/shell/backing_rtl_right.png.divert --rename /usr/lib/libreoffice/program/shell/backing_rtl_right.png
+    cp -a /usr/lib/libreoffice/program/shell/backing_rtl_right-blankon.png /usr/lib/libreoffice/program/shell/backing_rtl_right.png
+  fi
+  if [ -f /usr/lib/libreoffice/program/shell/backing_space.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/shell/backing_space.png.divert --rename /usr/lib/libreoffice/program/shell/backing_space.png
+    cp -a /usr/lib/libreoffice/program/shell/backing_space-blankon.png /usr/lib/libreoffice/program/shell/backing_space.png
+  fi
+  if [ -f /usr/lib/libreoffice/program/intro.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/intro.png.divert --rename /usr/lib/libreoffice/program/intro.png
+    cp -a /usr/lib/libreoffice/program/intro-blankon.png /usr/lib/libreoffice/program/intro.png
+    
+  fi
+  if [ -f /usr/lib/libreoffice/program/flat_logo.svg ]; then
+    dpkg-divert --add --local --divert /usr/lib/libreoffice/program/flat_logo.svg.divert --rename /usr/lib/libreoffice/program/flat_logo.svg
+    cp -a /usr/lib/libreoffice/program/flat_logo-blankon.svg /usr/lib/libreoffice/program/flat_logo.svg
+  fi
+  if [ -f /etc/libreoffice/sofficerc ]; then
+    dpkg-divert --add --local --divert /etc/libreoffice/sofficerc.divert --rename /etc/libreoffice/sofficerc
+    cp -a /etc/libreoffice/sofficerc-blankon /etc/libreoffice/sofficerc
+  fi
+esac
+
+exit 0

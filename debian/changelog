@@ -1,0 +1,433 @@
+blankon-branding (1.3.8+0.9.1.1) suroboyo-updates; urgency=medium
+
+  * Changes images
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Tue, 21 Oct 2014 10:40:47 +0700
+
+blankon-branding (1.3.7) suroboyo; urgency=low
+
+  * Refresh branding LibreOffice
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sun, 17 Nov 2013 18:55:06 +0700
+
+blankon-branding (1.3.6) suroboyo; urgency=low
+
+  * Refresh branding libreoffice
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Fri, 15 Nov 2013 22:57:10 +0700
+
+blankon-branding (1.3.5) suroboyo; urgency=low
+
+  * debian/control drop blankon-branding-gnome-control-center
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sun, 27 Oct 2013 22:57:50 +0700
+
+blankon-branding (1.3.4) suroboyo; urgency=low
+
+  * Branding libreoffice :
+    - Drop about-blankon.png
+    - Added flat_logo-blankon.svg
+    - Fix script branding for branding using flat_logo.svg
+    
+  * Drop branding gnome-control-center because not valid on version >= 3.8 
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sun, 27 Oct 2013 22:27:22 +0700
+
+blankon-branding (1.3.3) suroboyo; urgency=low
+
+  * update splash for pidgin and gnucash 
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Thu, 17 Oct 2013 17:34:35 +0700
+
+blankon-branding (1.3.2) suroboyo; urgency=low
+
+  * update image for libreoffice, inkscape, gimp
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Wed, 16 Oct 2013 19:03:54 +0700
+
+blankon-branding (1.3.1) suroboyo; urgency=low
+
+  * upload to suroboyo.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Tue, 29 Jan 2013 20:57:44 +0700
+
+blankon-branding (1.2.43) suroboyo; urgency=low
+
+  * remove branding checkbox, exaile, launchpad-integration, lightdm.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Tue, 29 Jan 2013 20:07:02 +0700
+
+blankon-branding (1.2.42) suroboyo; urgency=low
+
+  * revision branding about libreoffice. 
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Tue, 29 Jan 2013 01:57:16 +0700
+
+blankon-branding (1.2.41) suroboyo; urgency=low
+
+  * suroboyo 
+  * added branding gimp, inkscape, libreoffice
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 08 Dec 2012 20:25:22 +0700
+
+blankon-branding (1.2.40) rote-updates; urgency=low
+
+  * changes Ubuntu initial to Debian
+  * remove tangerin icon, tango icon, basefile nanggar, 
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 26 Nov 2012 18:26:50 +0700
+
+blankon-branding (1.2.39) rote-updates; urgency=low
+
+  * remove cinnamon branding
+  * added New Logo Gnome-control-center
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 26 Nov 2012 00:52:28 +0700
+
+blankon-branding (1.2.38) rote-updates; urgency=low
+
+  * remove blankon-branding-sajadah-wallpapers
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 13 Sep 2012 19:15:01 +0700
+
+blankon-branding (1.2.37) rote-updates; urgency=low
+
+  * added blankon-branding-sajadah-wallpapers
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 12 Sep 2012 23:08:18 +0700
+
+blankon-branding (1.2.36) rote; urgency=low
+
+  * about inkscape by pingsut
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 13 Aug 2012 20:00:40 +0700
+
+blankon-branding (1.2.35) rote; urgency=low
+
+  * Fix inskcape postinst & postrm.
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 10 Aug 2012 18:22:39 +0700
+
+blankon-branding (1.2.34) rote; urgency=low
+
+  * Fix inskcape postinst.
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 10 Aug 2012 14:45:27 +0700
+
+blankon-branding (1.2.33) rote; urgency=low
+
+  * added branding gnucash and inkscape svg 
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 10 Aug 2012 05:21:49 +0700
+
+blankon-branding (1.2.32) rote; urgency=low
+
+  * Added Branding Gimp, Inkscape.
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 09 Aug 2012 14:04:02 +0700
+
+blankon-branding (1.2.31) rote; urgency=low
+
+  * remove cinnamon branding
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 03 Aug 2012 19:12:02 +0700
+
+blankon-branding (1.2.30) rote; urgency=low
+
+  * New Logo BlankOn.
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 03 Aug 2012 06:51:20 +0700
+
+blankon-branding (1.2.29) rote; urgency=low
+
+  * Fix system-confog-printer
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 27 Jul 2012 21:45:24 +0700
+
+blankon-branding (1.2.28.2) rote; urgency=low
+
+  *control cups 
+
+ -- Muhammad Abdul Majid <tuyul.det@gmail.com>  Fri, 06 Jul 2012 16:37:05 +0700
+
+blankon-branding (1.2.28.1) rote; urgency=low
+
+  *delete ~ 
+
+ -- Muhammad Abdul Majid <tuyul.det@gmail.com>  Wed, 04 Jul 2012 18:10:36 +0700
+
+blankon-branding (1.2.28) rote; urgency=low
+
+  * blankon-branding-system-config-printer
+
+ -- Muhammad Abdul Majid <tuyul.det@gmail.com>  Wed, 04 Jul 2012 16:47:01 +0700
+
+blankon-branding (1.2.27) rote; urgency=low
+
+  * rebuild system monitor & bluetooth
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 11 May 2012 19:07:38 +0700
+
+blankon-branding (1.2.26) rote; urgency=low
+
+  * blankon-branding-gnome-bluetooth
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 11 May 2012 17:37:40 +0700
+
+blankon-branding (1.2.25) rote; urgency=low
+
+  * branding gnome-system-monitor
+  
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 11 May 2012 15:28:42 +0700
+
+blankon-branding (1.2.24) rote; urgency=low
+
+  * replace lightdm/bg.png 
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 01 May 2012 00:06:34 +0100
+
+blankon-branding (1.2.23) rote; urgency=low
+
+  * adding lightdm/greeter-blankon.ui
+
+ -- Pendekar BlankOn <mijortsa@localhost>  Wed, 18 Apr 2012 07:26:12 +0700
+
+blankon-branding (1.2.22) rote; urgency=low
+
+  * adding blankon-branding-lightdm
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 26 Mar 2012 01:18:58 +0700
+
+blankon-branding (1.2.21) rote; urgency=low
+
+  * changes debian/control
+  * adding package blankon-branding-gnome-control-center
+  * adding package blankon-branding-cinnamon
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 24 Mar 2012 00:30:20 +0700
+
+blankon-branding (1.2.20) rote; urgency=low
+
+  * rebuild for rote debian
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 04 Nov 2011 19:17:47 +0700
+
+blankon-branding (1.2.19) pattimura; urgency=low
+
+  * Change configure patch exaile* 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 05 Aug 2011 16:09:32 +0700
+
+blankon-branding (1.2.18) pattimura; urgency=low
+
+  * add --local at postrm
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 05 Aug 2011 14:52:31 +0700
+
+blankon-branding (1.2.17) pattimura; urgency=low
+
+  * change posterm & postinst
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 04 Aug 2011 06:23:19 +0700
+
+blankon-branding (1.2.16) pattimura; urgency=low
+
+  * remove --local ar potstrem
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 04 Aug 2011 03:49:39 +0700
+
+blankon-branding (1.2.15) pattimura; urgency=low
+
+  * Add --local at postrem 
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 03 Aug 2011 23:38:03 +0700
+
+blankon-branding (1.2.14) pattimura; urgency=low
+
+  * memperbaiki postinst dan postrm
+
+ -- kokabiel <kokabiel@ASUS-X42JE>  Wed, 03 Aug 2011 18:59:08 +0700
+
+blankon-branding (1.2.13) pattimura; urgency=low
+
+  * mengganti gambar latar libreoffice
+
+ -- kokabiel <kokabiel@ASUS-X42JE>  Wed, 03 Aug 2011 18:10:42 +0700
+
+blankon-branding (1.2.12) pattimura; urgency=low
+
+  * Membranding Libreoffice shell dari hasil kerja pak pii.
+
+ -- Adnan Kashogi <adnan@linuz.web.id>  Sat, 07 May 2011 08:45:05 +0700
+
+blankon-branding (1.2.11) pattimura; urgency=low
+
+  * Update about-pidgin-blankon.
+
+ -- Adnan Kashogi <adnan@linuz.web.id>  Thu, 21 Apr 2011 21:06:55 +0700
+
+blankon-branding (1.2.10-1) pattimura; urgency=low
+
+  * Update Splash Gimp & LibreOffice.
+
+ -- Adnan Kashogi <adnan@linuz.web.id>  Wed, 13 Apr 2011 21:03:33 +0700
+
+blankon-branding (1.2.10) pattimura; urgency=low
+
+  * update image adn script libreoffice
+  * deppend libreoffice-core.
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 03 Apr 2011 17:52:59 +0700
+
+blankon-branding (1.2.9) pattimura; urgency=low
+
+  * Update Splash Gnucash dan Inkscape.
+
+ -- Adnan Kashogi <adnan@linuz.web.id>  Sat, 02 Apr 2011 17:59:35 +0700
+
+blankon-branding (1.2.8) pattimura; urgency=low
+
+  * Change Brand Pattimura Splash Gimp, Exaile, Libreoffice.
+
+ -- Adnan Kashogi <adnan@linuz.web.id>  Thu, 31 Mar 2011 22:16:44 +0700
+
+blankon-branding (1.2.7) pattimura; urgency=low
+
+  * initial commit pattimura
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 30 Dec 2010 22:31:32 +0000
+
+blankon-branding (1.2.6) ombilin; urgency=low
+
+  * Perbaikan gambar gimp png
+
+ -- Muhidin Saimin <muhidins@gmail.com>  Mon, 03 May 2010 10:18:13 +0000
+
+blankon-branding (1.2.5) ombilin; urgency=low
+
+  * change gimp & pidgin png 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 02 May 2010 22:07:58 +0700
+
+blankon-branding (1.2.4) ombilin; urgency=low
+
+  * update for openoffice sun to oracle .
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 18 Apr 2010 10:58:22 +0700
+
+blankon-branding (1.2.3) ombilin; urgency=low
+
+  * Update system-config-printer artwork
+
+ -- Akhmat Safrudin <somat@blankonlinux.or.id>  Thu, 15 Apr 2010 17:32:35 +0000
+
+blankon-branding (1.2.2) ombilin; urgency=low
+
+  * Change blankon-branding-exaile.posterm
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 15 Mar 2010 17:24:43 +0700
+
+blankon-branding (1.2.1) ombilin; urgency=low
+
+  * Add pidgin branding
+  * change splash-exaile.png
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 02 Mar 2010 11:28:40 +0000
+
+blankon-branding (1.1.1) ombilin; urgency=low
+
+  * Add exaile branding
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 12 Feb 2010 03:33:10 +0000
+
+blankon-branding (1.0.4) ombilin; urgency=low
+
+  * change blankon-branding-openoffice.postinst
+  * change blankon-branding-openoffice.postrm
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 19 Jan 2010 06:26:03 +0000
+
+blankon-branding (1.0.3) ombilin; urgency=low
+
+  * Update Gimp Splash
+  * Update OOo Splash Intro
+  * Nambah file sofficerc-blankon
+
+ -- Ahmad Haris <ahmadharis1982@gmail.com>  Fri, 08 Jan 2010 15:51:38 +0700
+
+blankon-branding (1.0.2) ombilin; urgency=low
+
+  * Update Gimp Splash
+  * Update OOo Splash
+  * Update GnuCash Splash
+  * Update Inkscape About
+  * Hapus blankon-branding-apt
+
+ -- Ahmad Haris <ahmadharis1982@gmail.com>  Fri, 09 Oct 2009 10:00:04 +0700
+
+blankon-branding (1.0.1) ombilin; urgency=low
+
+  * Typo nanggar-branding-checkbox seharusnya blankon-branding-checkbox 
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Sat, 12 Sep 2009 07:38:53 +0000
+
+blankon-branding (1.0.0) ombilin; urgency=low
+
+  * rilis awal untuk blankon ombilin
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Sat, 12 Sep 2009 06:26:04 +0000
+
+nanggar-branding (0.6.3) nanggar; urgency=low
+
+  * perbaikan nanggar-branding-system-config-printer
+  * menutup tiket #357
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Wed, 10 Jun 2009 00:43:48 +0700
+
+nanggar-branding (0.6.2) nanggar; urgency=low
+
+  * perbaikan di checkbox/*glade
+
+ -- Mahyuddin Susanto <udienz@ubuntu.com>  Sun, 03 May 2009 09:49:57 +0700
+
+nanggar-branding (0.6.1) nanggar; urgency=low
+
+  * lupa naikkan versi
+
+ -- Mahyuddin Susanto <udienz@ubuntu.com>  Sat, 02 May 2009 18:57:14 +0700
+
+nanggar-branding (0.6) nanggar; urgency=low
+
+  * add launchpad-intregration package
+
+ -- Mahyuddin Susanto <udienz@ubuntu.com>  Thu, 30 Apr 2009 17:48:12 +0700
+
+nanggar-branding (0.5) nanggar; urgency=low
+
+  * menaikkan versi, karena ada perubahan di luar folder debian
+
+ -- Mahyuddin Susanto <udienz@ubuntu.com>  Thu, 30 Apr 2009 14:37:08 +0700
+
+nanggar-branding (0.4) nanggar; urgency=low
+
+  * added checkbox, menutup bug #256
+
+ -- Mahyuddin Susanto <udienz@ubuntu.com>  Wed, 29 Apr 2009 09:59:05 +0700
+
+nanggar-branding (0.3) nanggar; urgency=low
+
+  * menambah rebranding base-files 
+
+ -- MSulchan Darmawan <bleketux@gmail.com>  Thu, 16 Apr 2009 07:35:01 +0700
+
+nanggar-branding (0.2) nanggar; urgency=low
+
+  * Menambahkan branding network-manager-gnome
+
+ -- Muhammad Takdir <muhammad.takdir@gmail.com>  Tue, 14 Apr 2009 23:03:40 +0800
+
+nanggar-branding (0.1) nanggar; urgency=low
+
+  * Rilis Awal
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Sat, 28 Mar 2009 14:55:15 +0000
